@@ -1,0 +1,10 @@
+E:\programowanie\KURS\Dzien5\Zadanie6c\Zadanie6c\bin\Debug\Zadanie6c.exe.config
+E:\programowanie\KURS\Dzien5\Zadanie6c\Zadanie6c\bin\Debug\Zadanie6c.exe
+E:\programowanie\KURS\Dzien5\Zadanie6c\Zadanie6c\bin\Debug\Zadanie6c.pdb
+E:\programowanie\KURS\Dzien5\Zadanie6c\Zadanie6c\obj\Debug\Zadanie6c.csprojAssemblyReference.cache
+E:\programowanie\KURS\Dzien5\Zadanie6c\Zadanie6c\obj\Debug\Zadanie6c.Form1.resources
+E:\programowanie\KURS\Dzien5\Zadanie6c\Zadanie6c\obj\Debug\Zadanie6c.Properties.Resources.resources
+E:\programowanie\KURS\Dzien5\Zadanie6c\Zadanie6c\obj\Debug\Zadanie6c.csproj.GenerateResource.cache
+E:\programowanie\KURS\Dzien5\Zadanie6c\Zadanie6c\obj\Debug\Zadanie6c.csproj.CoreCompileInputs.cache
+E:\programowanie\KURS\Dzien5\Zadanie6c\Zadanie6c\obj\Debug\Zadanie6c.exe
+E:\programowanie\KURS\Dzien5\Zadanie6c\Zadanie6c\obj\Debug\Zadanie6c.pdb
